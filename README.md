@@ -1,5 +1,5 @@
 
-# Arduino Twinkle, Twinkle, Little Star Player
+# Arduino Twinkle star Player with a Piezo
 
 This Arduino project allows you to play the "Twinkle, Twinkle, Little Star" melody using a simple piezo speaker. It uses an Arduino board to generate musical tones corresponding to the notes in the melody.
 
